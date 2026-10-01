@@ -177,4 +177,4 @@ Fonts are loaded from Google Fonts under the SIL Open Font License.
 
 ---
 
-<p align="center">Built by <b>Saheel</b> &nbsp;|&nbsp; <a href="https://github.com/thorrwho">GitHub</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/saheel-447885373">LinkedIn</a></p>
+<p align="center">Built by <b>Tharini Naveen</b> &nbsp;|&nbsp; <a href="https://github.com/thorrwho">GitHub</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/tharini-naveen-217335275/">LinkedIn</a></p>
